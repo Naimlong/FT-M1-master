@@ -30,7 +30,6 @@ c(8,9,10);
 console.log(b);
 console.log(x);
 ```
-
 ```javascript
 console.log(bar);
 console.log(baz);
